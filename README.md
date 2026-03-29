@@ -7,11 +7,11 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/ElMuchachoo">
-    <img src="https://komarev.com/ghpvc/?username=ElMuchachoo&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
+  <a href="https://github.com/RosivalDSilva-Dev">
+    <img src="https://komarev.com/ghpvc/?username=RosivalDSilva-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
   </a>
   <a href="https://github.com/ElMuchachoo?tab=followers">
-    <img src="https://img.shields.io/github/followers/ElMuchachoo?label=Followers&style=social" alt="followers" />
+    <img src="https://img.shields.io/github/followers/RosivalDSilva-Dev?label=Followers&style=social" alt="followers" />
   </a>
 </p>
 
