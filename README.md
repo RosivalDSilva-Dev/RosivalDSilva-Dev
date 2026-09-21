@@ -20,15 +20,15 @@
 ## 🚀 Sobre mim
 
 - 💻 Desenvolvedor em formação com foco em **desenvolvimento de software e resolução de problemas**
-- 👨‍🏫 Professor de **Lógica de Programação e POO (Java)** no ensino técnico
-- 🎓 Professor Coordenador de **Educação Profissional**
-- 🧠 Forte base em **Física, Matemática e Modelagem Computacional**
-- 📊 Experiência com **Python, R e Origin** para análise e visualização de dados
-- 📝 Utilizo **LaTeX** para documentação técnica e produção acadêmica
-- 🌐 Formação complementar em **Web & Design**
-- 📚 Estudando **Análise e Desenvolvimento de Sistemas, Matemática e Técnico em Informática**
-- 🎯 Foco em **evolução contínua como desenvolvedor**
-- 🤝 Experiência com **liderança, gestão e trabalho em equipe**
+- 👨‍🏫 Professor de **Lógica de Programação, POO/(Java), Sistemas Operacionais, Programação Web I** no ensino técnico
+- 🎓 Professor na **Educação Profissional em Tempo Integral**
+- 🧠 Forte base em **Informática, Física, Matemática e Modelagem Computacional**
+- 📊 Experiência com **Python, e Origin** para análise e visualização de dados
+- 📝 Utilizo **LaTeX** para documentação técnica e produção de materiais acadêmicos
+- 🌐 Formação complementar em **Web & Design, Manutenção de Computadores**
+- 📚 Estudando **Análise e Desenvolvimento de Sistemas e Matemática**
+- 🎯 Foco em **Ensino-aprendizagem, evolução contínua como Analista e Desenvolvedor de Sistemas**
+- 🤝 Experiência com **Docência, Liderança, Gestão e Trabalho em Equipe**
 
 📫 **Contato:** rdonizete@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/rosival-donizeti-16884b363/
@@ -51,7 +51,6 @@
 ### 🧩 Fundamentos & Científico
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 ![OriginLab](https://img.shields.io/badge/OriginLab-3A67B1?style=for-the-badge)
 ![POO](https://img.shields.io/badge/POO-000000?style=for-the-badge)
