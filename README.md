@@ -10,7 +10,7 @@
   <a href="https://github.com/RosivalDSilva-Dev">
     <img src="https://komarev.com/ghpvc/?username=RosivalDSilva-Dev&label=Profile%20views&color=0e75b6&style=flat" alt="contador de visitas" />
   </a>
-  <a href="https://github.com/ElMuchachoo?tab=followers">
+  <a href="https://github.com/RosivalDSilva-Dev?tab=followers">
     <img src="https://img.shields.io/github/followers/RosivalDSilva-Dev?label=Followers&style=social" alt="followers" />
   </a>
 </p>
@@ -23,8 +23,9 @@
 - 👨‍🏫 Professor de **Lógica de Programação, POO/(Java), Sistemas Operacionais, Programação Web I** no ensino técnico
 - 🎓 Professor na **Educação Profissional em Tempo Integral**
 - 🧠 Forte base em **Informática, Física, Matemática e Modelagem Computacional**
-- 📊 Experiência com **Python, e Origin** para análise e visualização de dados
+- ⚙️ Experiência prática em **arquitetura de soluções e automação de processos**, com integração de sistemas e APIs e versionamento com **Git e GitHub**
 - 📝 Utilizo **LaTeX** para documentação técnica e produção de materiais acadêmicos
+- 🧩 Prática na criação de **materiais didáticos diferenciados e ecossistemas de ensino-aprendizagem**
 - 🌐 Formação complementar em **Web & Design, Manutenção de Computadores**
 - 📚 Estudando **Análise e Desenvolvimento de Sistemas e Matemática**
 - 🎯 Foco em **Ensino-aprendizagem, evolução contínua como Analista e Desenvolvedor de Sistemas**
@@ -38,6 +39,7 @@
 ## 🧠 Áreas de Interesse
 
 - Desenvolvimento de Software  
+- Arquitetura e Automação de Processos  
 - Análise de Dados  
 - Modelagem Computacional  
 - Educação em Tecnologia
@@ -50,9 +52,9 @@
 
 ### 🧩 Fundamentos & Científico
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![OriginLab](https://img.shields.io/badge/OriginLab-3A67B1?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![POO](https://img.shields.io/badge/POO-000000?style=for-the-badge)
 ![Lógica](https://img.shields.io/badge/Lógica%20de%20Programação-4B0082?style=for-the-badge)
 
